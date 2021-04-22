@@ -21,7 +21,7 @@
           "packageurl": "https://otl-test.data.vlaanderen.be/doc/applicatieprofiel/generiek-basis/ontwerpdocument/07-02-2018/"
         }
       ],
-  "   translation": [
+  "translation": [
 	    {
 	      "language":"en",
 	      "template":"duet-ap_en.j2",
