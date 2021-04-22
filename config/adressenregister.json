@@ -24,14 +24,14 @@
   "translation": [
 	    {
 	      "language":"en",
-	      "template":"duet-ap_en.j2",
+	      "template":"duet-ap2_en.j2",
 	      "title": "Address Registry",
 	      "translationjson":"adresregister-ap_en.json",
 	      "mergefile":"adresregister-ap_en_merged.jsonld"
 	    },
 	    {
 	      "language":"nl",
-      	      "template": "duet-ap_nl.j2",
+      	      "template": "duet-ap2_nl.j2",
               "title": "Adressenregister",
 	      "translationjson":"adresregister-ap_nl.json",
 	      "mergefile":"adresregister-ap_en_merged.jsonld"
